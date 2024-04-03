@@ -1,8 +1,8 @@
 # androidDemos   
 
-progessively gets more challenging. started from scratch just creating a simple grid. followed by interacting with the grid.
-created a usable connect 4 game.
-APOD use HTTPS fetching
+progessively gets more challenging. started from scratch just creating a simple grid. followed by interacting with the grid.   
+created a usable connect 4 game.   
+APOD use HTTPS fetching.   
 then created a BarcodeScannner
 
 ### NumGrid
